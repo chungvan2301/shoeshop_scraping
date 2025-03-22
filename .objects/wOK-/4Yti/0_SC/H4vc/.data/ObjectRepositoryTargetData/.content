@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o-7fXnHerEaD5IYo6D1Yhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="itviec.com/viec-lam-it/salesforce" DesignTimeRectangle="994, 245, 742, 82" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='text-it-black text-hover-red cursor-pointer transition-duration-300' /&gt;" Guid="ac486d49-e355-4e7f-bf28-10cc57d8ecf5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển dụng salesforce, việc làm IT chất nhất tại Viet Nam | ITviec' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5ec0eb76727483eca5cc07304d6fea46.png" xmlns="">0GxU-dIxFdEGtMVIGZuhL9Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

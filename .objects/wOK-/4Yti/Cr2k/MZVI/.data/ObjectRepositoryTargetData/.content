@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dItBYqQpv0Gfs3wdIOXehg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="itviec.com/viec-lam-it/salesforce" CVScreenId="880a84ae-05f4-4403-9ba3-f3f46c772185" CvElementArea="849, 427, 862, 52" CvTextArea="1227, 439, 103, 27" CvTextArgument="Úng tuyén" CvType="Button" DesignTimeRectangle="849, 427, 862, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Ứng tuyển' tag='A' type='' class='ibtn ibtn-sm ibtn-primary flex-grow-1' check:innerText='Ứng tuyển' /&gt;" Guid="83cb394d-2a66-471a-8e8f-ecd0e4c67602" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển dụng salesforce, việc làm IT chất nhất tại Viet Nam | ITviec' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f85c3f853c95c8ab52e76c9a06d1c6df.png" xmlns="">0BE0b9TH7UUaPFwFufcR5PA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

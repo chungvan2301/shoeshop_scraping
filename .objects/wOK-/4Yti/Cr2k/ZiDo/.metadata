@@ -1,0 +1,14 @@
+﻿{
+  "Name": "vietnamworks.comintern…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "ZiDo1RIK_kW4Eo3TnTlHMA",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/ZiDo1RIK_kW4Eo3TnTlHMA",
+  "ParentRef": "lzGRng2l7UqIZKepYz7YNg/Cr2kuRtqlkOUvJZFT2xXxA",
+  "Created": "2025-03-22T04:09:37.8579967Z",
+  "Updated": "2025-03-22T04:09:37.8579967Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

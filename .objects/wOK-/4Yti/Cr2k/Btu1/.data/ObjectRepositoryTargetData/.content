@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NW3DIwiVd0qR32LGi1m5Sw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="vietnamworks.com/intern-business-analyst-it-1883696-jv" DesignTimeRectangle="1234, 485, 407, 50" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl name='label' tag='A' type='' class='sc-ab270149-0 egZKeY sc-f0821106-0 gWSkfE' /&gt;" Guid="ac162213-fdef-4c5c-8db1-f1dfdb6324e0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TRADING VIỆT NAM T3/2025' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f266f4048ddbff525d2be1f73d184dbe.png" xmlns="">0O4xcEWo6KEipBGLQJP_SaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

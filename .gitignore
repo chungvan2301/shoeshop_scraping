@@ -1,0 +1,7 @@
+.local/
+.settings/
+backup/
+logs/
+temp/
+UiPath.settings
+UiPath.Project.Internal.json

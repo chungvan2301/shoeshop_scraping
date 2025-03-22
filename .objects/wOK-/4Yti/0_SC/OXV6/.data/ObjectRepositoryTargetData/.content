@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h3ihLGIRKkaEsb8YSlJKbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="itviec.com/viec-lam-it/salesforce" CVScreenId="880a84ae-05f4-4403-9ba3-f3f46c772185" CvTextArea="992, 342, 97, 18" CvTextArgument="NCCSOFT" CvType="Text" DesignTimeRectangle="994, 339, 95, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='NCCSOFT' type='' tag='A' class='normal-text text-rich-grey text-hover-underline' check:innerText='NCCSOFT' /&gt;" Guid="29821bdc-3002-4af8-a178-137872cd0989" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển dụng salesforce, việc làm IT chất nhất tại Viet Nam | ITviec' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="14f2f53380d7b8e88296492618aad7a3.png" xmlns="">0P0zryKTO1Uq86pyVTLFjpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Tuyển Intern (Business Analyst, IT) tạ",
+  "Type": "Screen",
+  "Id": "Cr2kuRtqlkOUvJZFT2xXxA",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/Cr2kuRtqlkOUvJZFT2xXxA",
+  "ParentRef": "lzGRng2l7UqIZKepYz7YNg/4YtiM2cILU6tqs7s115S5g",
+  "Created": "2025-03-22T03:40:42.6717734Z",
+  "Updated": "2025-03-22T03:40:42.6717734Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

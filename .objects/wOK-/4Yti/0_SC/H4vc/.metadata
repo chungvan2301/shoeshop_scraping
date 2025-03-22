@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Intern (Business Analys…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "H4vc5qB_N0y_sQl83b9Ayg",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/H4vc5qB_N0y_sQl83b9Ayg",
+  "ParentRef": "lzGRng2l7UqIZKepYz7YNg/0_SC73zU3kGh0gdeZOHBbg",
+  "Created": "2025-03-22T04:14:45.7846087Z",
+  "Updated": "2025-03-22T04:14:45.7846087Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

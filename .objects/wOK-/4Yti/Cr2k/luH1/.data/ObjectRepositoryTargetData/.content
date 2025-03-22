@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R8HMRihfdEadxd66DtWhhg" Reference="lzGRng2l7UqIZKepYz7YNg/luH1oM8joEO-o8NL3mJj5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="vietnamworks.com/intern-business-analyst-it-1883696-jv" DesignTimeRectangle="296, 473, 557, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-label='Nộp đơn' css-selector='body&amp;gt;main&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-label='Nộp đơn' tag='BUTTON' type='button' class='sc-bd699a4b-0 gSsvcr btn-primary btn-md apply-btn clickable' aaname='Nộp đơn' check:innerText='Nộp đơn' /&gt;" Guid="790dce67-d39a-40cd-9f4b-d63d93293d7d" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TRADING VIỆT NAM T3/2025' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5">
+      <imageRef attrName="InformativeScreenshot" originalValue="6cc5da6a977d7708466cff1cf88bf3dd.png" xmlns="">0-FWZaIvBrUO1HSLzxuJn6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

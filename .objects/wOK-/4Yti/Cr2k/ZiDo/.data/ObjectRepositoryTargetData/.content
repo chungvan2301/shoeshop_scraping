@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LnweMcZeckaRyWZS2oeezw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="vietnamworks.com/intern-business-analyst-it-1883696-jv" CVScreenId="4824198b-c962-4d97-b805-5c62054c62d6" CvElementArea="194, 64, 1479, 46" CvType="InputBox" DesignTimeRectangle="250, 72, 1327, 31" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TR*' role='pane' /&gt;&lt;ctrl name='Thanh địa chỉ và tìm kiếm' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TR*' role='pane' /&gt;&lt;ctrl name='Thanh địa chỉ và tìm kiếm' role='editable text' automationid='' /&gt;" Guid="8741e892-46d3-4e34-a967-7069332ffc5a" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TR*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="23118d7b75508ed6e0ef86b5bc63b0f2.png" xmlns="">0i0kdA-ZAfkCBGnN34q6djw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

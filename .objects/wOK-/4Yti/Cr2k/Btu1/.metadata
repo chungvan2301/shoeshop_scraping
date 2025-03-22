@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CÔNG TY TNHH CHEMICAL T…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Btu1YXmcXkKGvRnfP0_EbA",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/Btu1YXmcXkKGvRnfP0_EbA",
+  "ParentRef": "lzGRng2l7UqIZKepYz7YNg/Cr2kuRtqlkOUvJZFT2xXxA",
+  "Created": "2025-03-22T03:41:44.9744266Z",
+  "Updated": "2025-03-22T03:41:44.9744266Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

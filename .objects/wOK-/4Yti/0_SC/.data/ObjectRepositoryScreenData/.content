@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="VHS9onk81UCCITt3EeKXdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJPSURBVFhHxVc9SwQxEPUnSMpU2lleZ6mNpSAIVhbiH1BQFLRQLKxtLBQES0ULKxFBsBARRBDERkGP40BBkXifeqeuvCXRZDbJ7e5554PHLZfJzMtmMpnt6GgSgvEuwXg/fulYSyAYzwjGVwTjl4LxwMKsYHxTMD5E5zYFucpjS0AfIaaf+koEwXhnbXv37PPuPvtxfpEr9g3QIHG4Qv3GAl53ZWY+F+h4e6++dveEjitTs88QpthA3Cb174Xca1E/PXswBARBUBocDp2+r29kbf97uEjjWKGCY1J1aflFDwKoN5BCAJih8Qxgz1VwEMFq+wePCPD1WnipTExX1FhKAcc0pgFbpmNv4RzEcyHTGz4rYQrVuYUfO53Un/MtCMbHqDEC6kCy0ZU3AvXpPBXy3BrGWIGOPxKQpbGtq2+hANAs3YLxPYuRVUBpaKQEEV/F4rM+hpyg++/IAfC3QsrMpwZOAWoMz/oYRNH5HhoCUOepQVsFLFoM2ioA1yc1aKuASPFRbKGAzv8UYNaB1AJubvP6WAIBZiV01QDQJ4AWpAQCzLsg7SmICNjaydP5FkZvQzSQFsOGAiK9Qq1e1itfeXQ8qJ+cPhGfYzR+CL0HiCuA3pQuaP6iq1dw1QKfABArNAws0OztfQAgPzASC0DH9HF17RUhbSdpzAhsyYgA6lYDXZ0v9htJGXJrJ18/PMq9ra6Ft2OijthXE1IyfnBAXs2uz66kjNeGU0gRzuIUg1hAc59kgKwPcaubCmw/581ACsEXsS0/8B+S133EPPgGE4GpjyUcNgUAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Tuyển dụng salesforce, việc làm IT chất nhất tại Viet Nam | ITviec' /&gt;" Url="https://itviec.com/viec-lam-it/salesforce?job_selected=hn-hcm-dn-mid-salesforce-developer-cloud-json-nccsoft-5810" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="45b6a217a5ca8a1693bd215cc0826ee3.jpg" xmlns="">002zSeiLsV065y0PoOeXl2g</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9LiFkaQoUUOPWMp_LSXr8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="vietnamworks.com/intern-business-analyst-it-1883696-jv" DesignTimeRectangle="1420, 823, 133, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Ứng tuyển' parentid='vnwLayout__col' tag='BUTTON' type='button' /&gt;" Guid="2ad701ec-9f4b-4ed4-9e2f-22cdf174290a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Tuyển Intern (Business Analyst, IT) tại CÔNG TY TNHH CHEMICAL TRADING VIỆT NAM T3/2025' /&gt;" SearchSteps="Selector" Version="V5">
+      <imageRef attrName="InformativeScreenshot" originalValue="9d66283848676ab1f16cd2e483993742.png" xmlns="">0hf-xt5FnjUKMy7UBi9__wg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

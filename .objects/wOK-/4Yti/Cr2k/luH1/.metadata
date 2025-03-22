@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nộp đơn",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "luH1oM8joEO-o8NL3mJj5Q",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/luH1oM8joEO-o8NL3mJj5Q",
+  "ParentRef": "lzGRng2l7UqIZKepYz7YNg/Cr2kuRtqlkOUvJZFT2xXxA",
+  "Created": "2025-03-22T04:06:59.7044381Z",
+  "Updated": "2025-03-22T04:06:59.7044381Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome RPA Developer cho fresher",
+  "Type": "App",
+  "Id": "Bqf6K_Dz1Ei7-LkYbgAPeQ",
+  "Reference": "lzGRng2l7UqIZKepYz7YNg/Bqf6K_Dz1Ei7-LkYbgAPeQ",
+  "Created": "2025-03-22T03:47:44.8898468Z",
+  "Updated": "2025-03-22T03:47:44.8898468Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
